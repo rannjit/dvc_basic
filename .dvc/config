@@ -1,6 +1,8 @@
 [core]
-    remote = dvc_store
+    remote = dvc_data
 ['remote "storage"']
     url = https://github.com/rannjit/ml_test1
 ['remote "dvc_store"']
     url = https://github.com/rannjit/rannjit.git
+['remote "dvc_data"']
+    url = gdrive://1hjs1gILyKeY5lyg52w13D2SU6jKmZgRi
